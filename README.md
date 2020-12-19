@@ -220,6 +220,10 @@ npm run dev
 npm run test
 ```
 
+## Despliegue en Heroku
+
+https://arcane-refuge-56493.herokuapp.com/
+
 ## Autores  
 - Juan José Neira Cote 
 - Gustavo Adolfo Garcia Londoño 
