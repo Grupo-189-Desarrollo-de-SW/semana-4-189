@@ -1,6 +1,6 @@
 const routerx = require("express-promise-router");
 
-const categoriaController = require("../controllers/CategoriasController");
+const categoriaController = require("../controllers/CategoriasControllers");
 const auth= require('../middlewares/auth');
 
 const router = routerx();
