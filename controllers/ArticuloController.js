@@ -16,7 +16,7 @@ module.exports = {
       res.status(200).json(reg);
     } catch (error) {
       res.status(500).send({
-        message: "No hay categorias registradas",
+        message: "No hay articulos registrados",
       });
       next(error);
     }
